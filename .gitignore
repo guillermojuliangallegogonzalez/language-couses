@@ -9,7 +9,7 @@
 .localdevserver/
 deploy-options.json
 
-# LWC VSCode autocomplete
+# LWC VSCode autocompletes
 **/lwc/jsconfig.json
 
 # LWC Jest coverage reports
